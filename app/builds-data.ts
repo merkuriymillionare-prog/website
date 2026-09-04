@@ -175,7 +175,7 @@ export const BUILDS: Build[] = [
       'Приятная оранжевая оригинальная графика, которую можно менять /sw - смена погоды | /st - смена времени',
       'Старое дефолтное лого, установлены старые карточки домов и бизнесов',
     ],
-    screenshot: '/screenshots/Radmir_oldgta.png',
+    screenshot: '/screenshots/radmir_oldgta.png',
     download: 'https://disk.yandex.ru/d/tDk0tb82J5_DAA',
     price: null,
     downloads: 63,
