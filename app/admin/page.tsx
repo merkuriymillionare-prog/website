@@ -313,7 +313,7 @@ export default function AdminPage() {
           <div className="adm-card">
             <h1>Админка выключена</h1>
             <p>Эпилепсия сын хуйни, напомню что это ИИсайт xD.</p>
-            <p>На nelacostework боссы.</p>
+            <p>nelacostework боссы.</p>
           </div>
         </div>
       </Shell>
