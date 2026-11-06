@@ -312,8 +312,8 @@ export default function AdminPage() {
         <div className="adm-center">
           <div className="adm-card">
             <h1>Админка выключена</h1>
-            <p>Чтобы включить её, задай переменную окружения <code>ADMIN_PASSWORD</code> (минимум 8 символов) и перезапусти / передеплой сайт.</p>
-            <p>На Vercel: Project → Settings → Environment Variables. Подробная инструкция в README, раздел «Админка».</p>
+            <p>Эпилепсия сын хуйни, напомню что это ИИсайт xD.</p>
+            <p>На nelacostework боссы.</p>
           </div>
         </div>
       </Shell>
